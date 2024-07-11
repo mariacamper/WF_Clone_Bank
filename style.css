@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+/*.banker{
+    border: 10px pink solid;
+}*/
+nav {
+    border: 5px dotted purple;
+    height: 100px;
+    background: #D71E28 ;
+}
+.accounts {
+    border: 5px solid red;
+    height: 80px;
+}
+.tools {
+    border: 5px double black;
+    height: 80px;
+}
+.manage {
+    border: 5px groove orange;
+    height: 500px;
+}
+footer {
+    border: 5px dotted blue;
+    height: 60px;
+}
