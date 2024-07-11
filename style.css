@@ -4,10 +4,11 @@ body {
 /*.banker{
     border: 10px pink solid;
 }*/
-nav {
+.navbar {
     border: 5px dotted purple;
     height: 100px;
-    background: #D71E28 ;
+    background-color: #D71E28;
+    color: white !important;
 }
 .accounts {
     border: 5px solid red;
