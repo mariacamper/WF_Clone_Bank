@@ -1,14 +1,13 @@
 body {
     margin: 0px;
 }
-/*.banker{
-    border: 10px pink solid;
-}*/
+
 .navbar {
     border: 5px dotted purple;
-    height: 100px;
-    background-color: #D71E28;
-    color: white !important;
+    height: 60px;
+    background: #D71E28;
+    display: flex;
+    text-align: center;
 }
 .accounts {
     border: 5px solid red;
