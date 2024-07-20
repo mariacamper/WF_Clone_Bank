@@ -6,8 +6,15 @@ body {
     border: 5px dotted purple;
     height: 60px;
     background: #D71E28;
+    
+}
+#logo {
     display: flex;
     text-align: center;
+}
+.topics {
+    display: flex;
+    justify-content: flex-end;
 }
 .accounts {
     border: 5px solid red;
